@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="personal" label="Personal" language="en" table="x_fpuk2_my_applica_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>personal</element>
+            <help/>
+            <hint/>
+            <label>Personal</label>
+            <language>en</language>
+            <name>x_fpuk2_my_applica_application</name>
+            <plural>Personals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 09:06:16</sys_created_on>
+            <sys_id>a9d44780db561700545a52f4ce961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Personal</sys_name>
+            <sys_package display_value="My Application" source="x_fpuk2_my_applica">5da34740db561700545a52f4ce9619ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Application">5da34740db561700545a52f4ce9619ff</sys_scope>
+            <sys_update_name>sys_documentation_x_fpuk2_my_applica_application_personal_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 09:06:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

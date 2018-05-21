@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Application" max_length="40" name="x_fpuk2_my_applica_application" type="collection">
+        <element label="Personal" max_length="40" name="personal" type="boolean"/>
+    </element>
+</database>
